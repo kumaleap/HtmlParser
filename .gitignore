@@ -15,6 +15,9 @@
 ### Android template
 # Built application files
 *.apk
+# Built application files
+*.apk
+*.aar
 *.ap_
 *.aab
 
@@ -29,7 +32,6 @@ bin/
 gen/
 out/
 release/
-
 # Gradle files
 .gradle/
 build/
@@ -70,6 +72,7 @@ captures/
 
 # External native build folder generated in Android Studio 2.2 and later
 .externalNativeBuild
+.cxx/
 
 # Google Services (e.g. APIs or Firebase)
 # google-services.json
@@ -95,4 +98,3 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
-
