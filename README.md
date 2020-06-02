@@ -1,0 +1,2 @@
+# HtmlParser
+支持TextView解析html，并且支持自定义标签高亮变色并识别点击事件
